@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond2lte.mk
+    $(LOCAL_DIR)/superior_beyond2lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond2lte-eng \
-    lineage_beyond2lte-user \
-    lineage_beyond2lte-userdebug
+    superior_beyond2lte-eng \
+    superior_beyond2lte-user \
+    superior_beyond2lte-userdebug
